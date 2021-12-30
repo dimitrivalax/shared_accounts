@@ -1,4 +1,4 @@
-package com.example.shared_accounts
+package mitri.dimitri.shared_accounts
 
 import io.flutter.embedding.android.FlutterActivity
 

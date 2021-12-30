@@ -1,6 +1,6 @@
 # shared_accounts
 
-A new Flutter project.
+An app to shared accounts written with Flutter.
 
 ## Getting Started
 
@@ -14,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# tuto 
+## install firebase (https://firebase.google.com/codelabs/firebase-get-to-know-flutter#3)
+flutter pub add firebase_core
+flutter pub add firebase_auth
+flutter pub add cloud_firestore
+
+flutter pub add provider
+
+## Install flutterfire
+dart pub global activate flutterfire_cli
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+## Configure firebase
+
