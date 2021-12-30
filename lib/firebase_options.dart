@@ -49,7 +49,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBY5bHD6DyNRIlGEy0oHOZxubpzOyeVHGE',
-    appId: '1:431299264990:android:9cf80bf778c19e6900dd4f',
+    appId: '1:431299264990:android:4898028262b816ef00dd4f',
     messagingSenderId: '431299264990',
     projectId: 'shared-accounts',
     storageBucket: 'shared-accounts.appspot.com',
