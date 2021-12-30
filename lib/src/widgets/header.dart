@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:shared_accounts/src/theme/colors.dart';
 
 class Header extends StatelessWidget {
   const Header(this.heading);
@@ -9,7 +10,7 @@ class Header extends StatelessWidget {
     padding: const EdgeInsets.all(8.0),
     child: Text(
       heading,
-      style: const TextStyle(fontSize: 24),
+      style: const TextStyle(fontSize: 24, color: black),
     ),
   );
 }
